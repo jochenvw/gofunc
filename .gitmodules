@@ -1,0 +1,3 @@
+[submodule "src/infra/azure-functions-flex-consumption-samples"]
+	path = src/infra/azure-functions-flex-consumption-samples
+	url = https://github.com/Azure-Samples/azure-functions-flex-consumption-samples.git
